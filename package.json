@@ -1,0 +1,21 @@
+{
+  "name": "breeze-wind-theme",
+  "displayName": "Breeze Wind Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Breeze Wind",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Breeze Wind-color-theme.json"
+      }
+    ]
+  }
+}
