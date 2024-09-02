@@ -46,6 +46,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
+        "fontStyle": "bold",
         "foreground": "#B887EA"
       }
     },
